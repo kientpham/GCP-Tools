@@ -6,8 +6,8 @@ To deploy using Terraform:
  * Clone this repo (or open automatically in [Cloud Shell][shell_link])
 
     ```shell
-    git clone https://github.com/GoogleCloudPlatform/serverless-expeditions 
-    cd serverless-expeditions/terraform-serverless
+    git clone https://github.com/kientpham/GCP-Tools
+    cd GCP-Tools/terraform-serverless
     ```
 
   * Build the base service container:
